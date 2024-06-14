@@ -1,4 +1,9 @@
-## Hi there 👋
+## Introduction
+Welcome to the [Modeling, Analysis and Development of Networks and Systems Lab (LAND)](https://antigo.coppe.ufrj.br/pt-br/pesquisa/laboratorios/laboratorio-de-modelagem-analise-e-desenvolvimento-de-redes-e-sistemas-de) at COPPE/UFRJ. Our lab specializes in computer systems modeling and analysis, computer networks, and machine learning. 
+
+## Useful Resources
+- **Contact** Contact us through Professor Edmundo de Souza e Silva via email at [edmundo@land.ufrj.br](mailto:edmundo@land.ufrj.br).
+- **Publications:** Explore our research outputs on our [Google Scholar page](https://scholar.google.com/citations?user=r9ngIuMAAAAJ&hl=en&oi=ao).
 
 <!--
 
